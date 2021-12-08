@@ -1,1 +1,3 @@
-print("Life is shot. I need Python")
+fruits = {"orange":2000, "apple":3000}
+
+print(fruits)
